@@ -11,4 +11,4 @@ W tym dziale zajmiemy się ogólno pojętą balistyką, dowiesz się tutaj:
 - Co to są tabele balistyczne oraz jak za ich pomocą przyjmować poprawki na strzał
 - Jak wprowadzać poprawkina strzał
   
-[Zobacz więcej](main/balistyka.md)
+[Zobacz więcej](/balistyka.md)
