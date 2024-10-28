@@ -4,7 +4,7 @@ Strona ma być swoistego rodzaju kompedium wiedzy na temat strzelectwa jako taki
 
 ## Spis treści
 - [1.Balistyka](#Balistyka)
-- [2.Budowa uzbrojenia i amunicji](#Budowa uzbrojenia i amunicji)
+- [2.Budowa uzbrojenia i amunicji](#Budowa-uzbrojenia-i-amunicji)
 
 ## Balistyka
 W tym dziale zajmiemy się ogólno pojętą balistyką, dowiesz się tutaj:
