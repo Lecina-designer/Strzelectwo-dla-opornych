@@ -11,6 +11,9 @@ Balistyka- (gr.ballein "rzut") jest nauką zajmującą się miotaniem oraz ruche
 8. [Rozwiązania zadań z zakresu oblicznia odległości i przyjmowania poprawek](#8.Rozwiązania-zadań-z-zakresu-oblicznia-odległości-i-przyjmowania-poprawek)
 
 ## 1.Teoria
+Pomimo tego, że strona ta ma w jak najbardziej przystępny sposób wyjaśnić, jak to się dzieje że nasz ziemniak leci do celu a nie robi fikołka w locie, jest to nie możliwe bez znajomości podstaw fizyki oraz matematyki. Będzie to kluczowe w dalszych etapach podczas obliczania odległości do celu oraz poprawek na strzał. 
+### Podstawy matematyczne 
+Dawno temu 
 
 
 
