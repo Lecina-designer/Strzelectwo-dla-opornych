@@ -20,10 +20,18 @@ Definicja mówi że sinus jest to stosunek przyprostokątnej do przeciwprostoktn
 
 ![trygonometria](https://github.com/user-attachments/assets/420d7190-0d6c-4c05-b77c-15bd7b77272b)
 
+### Cosinus 
+Drugą funkcją podobną do sinusa jest Cosinus. Definicja mówi że cosinus jest to stosunek długości przyprostokątnej przyległej do kąta alfa do długości przeciwprostokątnej. Z polskiego na nasze oznacza to że w trójkącie szukamy wierzchołka z katem który nas interesuje. Następnie bierzemy odcinek który łączy nasz wierzchołek z kątem prostym (w naszym przypadku bok A)  i dzielimy go przez odcinek który nie dotyka kąta prostego (w naszym przypadku bok C). 
 
+![trygonometria](https://github.com/user-attachments/assets/fade0c80-6c0a-4943-9078-04481f6eb3a5)
 
+### Tangens i Cotangens
+Dwie ostatnie funkcje które będą nas z tego interesować są tangens i cotangens. Zostaną omówione one wspólnie ponieważ cotangens jest odwrotnością tangensa. Nie wgłębiając się w definicje Tangens danego kąta (ponownie roboczo nazwiemy go α) to długość przyprostokątnej która nie dodtyka interesującego nas kąta (w naszym przypadku bok B) podzielona przez przyprostokątną która już dotyka interesującego nas kąta (w naszym przypadku bok A). Dla cotangensa będzie na odwrót czyli dzielimy długość przyprostokątnej, która dotyka interesujący nas kąt, prze długość przyprostokątnej, która już go nie dotyka
 
+![trygonometria](https://github.com/user-attachments/assets/fade0c80-6c0a-4943-9078-04481f6eb3a5)
 
+### Trójkąty podobne
+O ile bez wcześniejszych funckji można sobie jako tako poradić tak bez znajomoći trójkątów podobnych obliczenia będą niezwykle ciężkie o ile nie niemożliwe. 
 
 ## 2.Miary kątowe
 
