@@ -18,7 +18,7 @@ Dawno temu Galileusz powiedział "Matematyka jest alfabetem, przy pomocy któreg
 #### Sinus
 Definicja mówi że sinus jest to stosunek przyprostokątnej do przeciwprostoktnej trójkąta. Mówiąc jaśniej sinus danego kąta (tutaj roboczo nazwijmy go α) jest równy przyprostokątnej (jeden z boków leżący przy kącie prostym) leżącej na przeciwko kąta α podzielonej przez przeciwprostokątną (bok który nie ma styczności z kątem prostym). W praktyce łatwo to zapamiętać ponieważ w trójkącie szukamy dużej kosy lub cyfry 7.
 
-
+![Opis alternatywny obrazu](main/images/trygonometria.png)
 
 
 
