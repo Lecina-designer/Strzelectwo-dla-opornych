@@ -16,9 +16,10 @@ Pomimo tego, że strona ta ma w jak najbardziej przystępny sposób wyjaśnić, 
 Dawno temu Galileusz powiedział "Matematyka jest alfabetem, przy pomocy którego Bóg opisał wszechświat"... Są to naprawdę zacne słowa do momentu, w którym nie musimy liczyć równania długiego na 2km zawierającego 20 pochodnych i 40 całek. Na szczęście podstawy matematyki, które są wymagane aby celnie miotać ziemniakmi są sporo prostrze. Jeżeli ktoś w szkole siedząc na matematyce zastanawiał się na co mu te wszystkie sinusy cosinusy i inne rzeczy przydadzą się w życiu to odpowiadam, że właśnie tutaj. Można stwierdzić że właściwie całe określanie odległości oraz branie poprawek opiera się na trygonometrii tzn.sinusy, cosinusy, tangensy, trójkąty podobne i wiele innych. W tej części postaram się wyjaśnić cały wymagany aparat matematyczny.
 
 #### Sinus
-Definicja mówi że sinus jest to stosunek przyprostokątnej do przeciwprostoktnej trójkąta. Mówiąc jaśniej sinus danego kąta (tutaj roboczo nazwijmy go α) jest równy przyprostokątnej (jeden z boków leżący przy kącie prostym) leżącej na przeciwko kąta α podzielonej przez przeciwprostokątną (bok który nie ma styczności z kątem prostym). W praktyce łatwo to zapamiętać ponieważ w trójkącie szukamy dużej kosy lub cyfry 7.
+Definicja mówi że sinus jest to stosunek przyprostokątnej do przeciwprostoktnej trójkąta. Mówiąc jaśniej sinus danego kąta (tutaj roboczo nazwijmy go α) jest równy przyprostokątnej (jeden z boków leżący przy kącie prostym, w naszym przypadku bok B) leżącej na przeciwko kąta α podzielonej przez przeciwprostokątną (bok który nie ma styczności z kątem prostym, w naszym przypadku bok C). W praktyce łatwo to zapamiętać ponieważ w trójkącie szukamy dużej kosy lub cyfry 7 w trójkącie.
 
-![Opis alternatywny obrazu](main/images/trygonometria.png)
+![trygonometria](https://github.com/user-attachments/assets/420d7190-0d6c-4c05-b77c-15bd7b77272b)
+
 
 
 
