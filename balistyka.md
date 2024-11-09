@@ -47,7 +47,9 @@ Jeżeli podstawy matematyczne mamy już za sobą można przejść do podstaw fiz
 #### Areodynamika
 Na samym początku kiedy rzucimy naszym ziemniakiem powinniśmy sobie zadać pytanie czemu on w ogóle unosi do góry a następnie spada. Przecież jeżeli go delikatnie zepchniemy ze stołu zaczyna on od razu spadać. No włąśnie tutaj musimy sobie odpowiedzieć na pytanie jak to się dzieje że cokolwiek zaczyna latać. Powiedzmy że żeby nasz ziemniak zaczął latać mamy trzy główne sposoby.
 
-Pierwszym sposobem możemy kojarzyć głównie z Elonem Muskiem i lotami kosmicznymi. Kiedy oglądamy takie starty możemy zobaczyć że rakieta ma bardzo duży silnik i startuje ona pionowo w górę. No właśnie czyli patrząc na to możemy stwierdzić że jeżeli naszemu ziemniakowi nadamy dość dużą siłę skierowaną pionowo w górę to zacznie się on unosić. Po części tak jest przykładowo wystarczy wziąć piłkę oraz ją podrzucić. 
+Pierwszym sposobem możemy kojarzyć głównie z Elonem Muskiem i lotami kosmicznymi. Kiedy oglądamy takie starty możemy zobaczyć że rakieta ma bardzo duży silnik i startuje ona pionowo w górę. No właśnie czyli patrząc na to możemy stwierdzić że jeżeli naszemu ziemniakowi nadamy dość dużą siłę skierowaną pionowo w górę to zacznie się on unosić. Po części tak jest przykładowo wystarczy wziąć piłkę oraz ją podrzucić. Jeżeli siła którą damy piłce będzie duża zacznie się ona wznosić, jednak po pewnym czasie spadnie. Działa tutaj siła oporu powietrza oraz siła grawitacji, które po pewnym czasie niwelują włożoną w piłkę siłe. 
+
+Drugi sposób polega na wykorzystaniu powierzchni nośnych i odpowiedniej siły ciągu. Bardziej jaśniej, jeżeli porównamy samolot i samochód możemy dojść do szokującego odkrycia mianowicie......samolot lata a auto jeździ. No właśnie tylko dlaczego, przecież obydwa urządzenia mają silnik i poruszają się ze sporą prędkością. Mimo to przy standardowj jeżdzie samochód nie wykazuje chęci do unoszenia się. Dzieje się to przez wykorzystanie w samolocie powierzchni nośnych jakimi są skrzydła. Przez połączenie ciągu (dużej prędkości) oraz odpowiedniego kształtu skrzydła otrzyujemy siłę ciągłą.  
 
 ## 2.Miary kątowe
 
